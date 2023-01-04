@@ -1,3 +1,4 @@
+<img src="Resume/resume.png" align="left" width="50" height="50">
 
 ### Skills
 Proficient in programming languages such as Java, JavaScript, and TypeScript
