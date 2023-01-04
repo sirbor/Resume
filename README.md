@@ -1,6 +1,4 @@
-![Resume](./RESUME/resume.png)
-
-
+<img src="https://raw.githubusercontent.com/sirbor/Resume/main/resume.png" style="width:100%">
 
 ### Skills
 Proficient in programming languages such as Java, JavaScript, and TypeScript
