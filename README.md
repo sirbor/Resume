@@ -1,4 +1,3 @@
-<img src="https://raw.githubusercontent.com/sirbor/Resume/main/resume.png" style="width:100%">
 
 ### Skills
 Proficient in programming languages such as Java, JavaScript, and TypeScript
@@ -7,3 +6,5 @@ Skilled in back-end development using Node.js, Express.js, Nest.js, and experien
 Proficient in working with various databases including SQL, MongoDB, MySQL, and PostgreSQL
 Experienced in deploying applications on cloud platforms such as AWS, Heroku, Azure, Vercel, and Netlify, as well as Firebase
 Proficient in using tools such as Jenkins, Git, GitHub, Docker, and Kubernetes, and comfortable working with IDEs such as VS Code, IntelliJ, and Eclipse
+
+<img src="https://raw.githubusercontent.com/sirbor/Resume/main/resume.png" style="width:100%">
