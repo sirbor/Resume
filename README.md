@@ -1,6 +1,7 @@
 ![Resume](./RESUME/resume.png)
 
 
+
 ### Skills
 Proficient in programming languages such as Java, JavaScript, and TypeScript
 Experienced in front-end development using React, Next.js, and various UI libraries such as Semantic UI, Material UI, Chakra UI, and Ant Design
