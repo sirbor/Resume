@@ -1,4 +1,5 @@
-<img src="Resume/resume.png" align="left" width="50" height="50">
+![Resume](./RESUME/resume.png)
+
 
 ### Skills
 Proficient in programming languages such as Java, JavaScript, and TypeScript
