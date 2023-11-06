@@ -1,7 +1,8 @@
 # Developer's Toolkit
 
 Welcome to my developer's toolkit repository! This README provides an overview of the programming languages, frameworks, tools, andtechnologies that I'm familiar with and frequently use in my development work.
-https://github.com/sirbor/Resume/blob/main/resume.png
+
+<img src="https://raw.githubusercontent.com/sirbor/Resume/main/resume.png" style="width:100%">g
 
 ## Programming Languages
 
